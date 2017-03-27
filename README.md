@@ -1,6 +1,5 @@
-<p align="center">
 ![capture6](https://cloud.githubusercontent.com/assets/12973004/24373907/0ed077a2-1301-11e7-8a17-dfe83ed55bbf.JPG)
-</p>
+
 
 
 
